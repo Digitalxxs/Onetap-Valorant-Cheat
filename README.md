@@ -5,3 +5,5 @@ One tap is a valorant hack that i created myself with features like aimbot esp a
 Open the file and just play valorant the open key is f8 
 
 not detected as in 2023-02-01
+
+Made by Digitalxxs
