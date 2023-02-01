@@ -6,4 +6,6 @@ Open the file and just play valorant the open key is f8
 
 not detected as in 2023-02-01
 
+Open it as an administrator
+
 Made by Digitalxxs
